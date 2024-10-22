@@ -1,0 +1,2 @@
+(library
+ (name nand2tetris_assembler))

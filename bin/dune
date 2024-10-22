@@ -1,0 +1,4 @@
+(executable
+ (public_name nand2tetris_assembler)
+ (name main)
+ (libraries nand2tetris_assembler))
